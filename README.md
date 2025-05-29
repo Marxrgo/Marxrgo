@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Marvens Longchamp
 
-I'm a high school student with a strong interest in **engineering**, **artificial intelligence**, and **technology**. I'm always looking for new ways to learn, build, and explore how AI and machine learning can be used in the real world.
+I'm a high school student with a strong interest in **engineering**, **artificial intelligence**, and **technology**. I'm always looking for a new way to learn, build, and explore how machine learning can be deployed and used in the real world.
 
 ## 🧠 Interests
 
-- Engineering and problem-solving
+- Mechanical engineering and Computer hardware engineering
 - Artificial Intelligence (AI) and Machine Learning (ML)
 - Software development and automation
-- Data and how it helps make smarter decisions
+- How I can make technology in the modern world, more efficient.
 
 ## 📚 Currently Learning
 
