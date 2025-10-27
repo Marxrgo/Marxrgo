@@ -1,27 +1,15 @@
 # 👋 Hi, I'm Marvens Longchamp
 
-I'm a high school student with a strong interest in **engineering**, **artificial intelligence**, and **technology**. I'm always looking for a new way to learn, build, and explore how machine learning can be deployed and used in the real world.
+I'm a high school student that is always looking for self-improvement in all areas of my life. I'm peculiarly intrested in **engineering**, **artificial intelligence**, and **Software Programming**. My objective on github is to learn how to program on github using all types of computer languages to build projects, connect with higher-ups, showcase my skills, and to set my self up for future opporturnities.
 
-## 🧠 Interests
+**About me**: I am a highschool student that originated from the island of Haiti. I go to school at Nova high school, where I am/Have taken Advanced course including Advanced placement CS courses, Advanced placement calculus, Physics, and college level statistics. I plan to launch a software modeled business that encorporates AI powered algorithms to benefit my future customers. Im also heavily intrested in fitness as a hobby, aspring to be a non-competing bodybuilder. In summary, I hope to break out of my lineage and become the first, Haitian-American Millionare in my family.
 
-- Mechanical engineering and Computer hardware engineering
-- Artificial Intelligence (AI) and Machine Learning (ML)
-- Software development and automation
-- How I can make technology in the modern world, more efficient.
 
-## 📚 Currently Learning
+## 🛠️ Extracurriculurs
 
-I'm currently taking an **AI course** where I’m learning:
-
-- The basics of **Machine Learning**
-- How AI models are trained and tested
-- Real-world AI applications
-
-## 🏆 Achievements
-
-- ✅ Earned the **Microsoft AI-900 Certification** (Azure AI Fundamentals)
-- 💡 Completed multiple AI projects during the course
-- 📁 Built and shared projects using GitHub
+- Earned the **Microsoft AI-900 Certification** (Azure AI Fundamentals)
+- Completed multiple AI projects during the course, using tools like Aws
+- Built and shared projects using GitHub
 
 ## 🔗 Connect With Me
 
